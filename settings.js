@@ -6,31 +6,31 @@ const chalk = require('chalk')
 
 
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = 'false'
+global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94768211424'] 
+global.owner = ['94758179948'] 
 //👇 Your Bot Alive Logo ( alive image )
-global.alivelogo = `https://telegra.ph/file/30ec9e93fa99d8d79bf53.jpg`
+global.alivelogo = `https://telegra.ph/file/847b54dd9c025e6d02c3c.jpg`
 //👇 Your Caption ( Image Video )
-global.cap = '© Thivanka Nirmal'
+global.cap = '© ᴋᴀʟɪɴᴅᴜ ᴍᴅ'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO = process.env.AUTO_BIO || 'off'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK = process.env.INBOX_BLOCK || 'on'
+global.INBOX_BLOCK = process.env.INBOX_BLOCK || 'off'
 //👇 Auto react 
-global.AUTO_REACT = process.env.AUTO_REACT || 'false'
+global.AUTO_REACT = process.env.AUTO_REACT || 'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD = process.env.ANTI_BADWORD || 'true'
 //👇 Your Bot Name
-global.botnma = process.env.BOT_NAME || 'Thivanka' 
+global.botnma = process.env.BOT_NAME || 'KALINDU-BOT' 
 //👇 Your name
-global.ownernma = process.env.OWNER_NAME || 'Mr Thiva' 
+global.ownernma = process.env.OWNER_NAME || 'Mr KALIDU' 
 //👇 Sticker package name
-global.packname = process.env.STICKER_PACK_NAME || 'Thivanka' 
+global.packname = process.env.STICKER_PACK_NAME || 'kalindu' 
 //👇 Sticker Author Name
-global.author = process.env.STICKER_AUTHOR_NAME || 'Mr Thiva' 
+global.author = process.env.STICKER_AUTHOR_NAME || 'Mr KALINDU' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink = process.env.ANTI_LINK || 'true'
 //👇 You Welcome Massage 
@@ -49,7 +49,7 @@ global.BUTTON1 = '𝗚𝗶𝘁𝗵𝘂𝗯'
 //👇 URL button 2 name
 global.BUTTON2 = '𝗪𝗲𝗯𝘀𝗶𝘁𝗲'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/thivankaonline/'
+global.BUTTON1_URL = 'https://github.com/MR-KAPAYA/'
 //👇 Button 2 url
 global.BUTTON2_URL = 'https://www.thivanka.lk'
 //👇 Your Add Massage 
@@ -83,9 +83,9 @@ global.LANG = 'SI'
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/30ec9e93fa99d8d79bf53.jpg'
 //other
-global.pemilik = ['94768211424'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94768211424'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Thivanka' // Your name ඔබේ නම 
+global.pemilik = ['94758179948'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94758179948'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'KALINDU' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','/',''] 
 global.sp = '🔵'
